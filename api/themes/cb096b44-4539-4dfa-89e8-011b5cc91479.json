@@ -1,0 +1,16 @@
+{
+  "title": "TypeScript: Fundamentos",
+  "slug": "typescript-fundamentals",
+  "cardDescription": "TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript adicionando tipos estáticos opcionais.",
+  "category": [
+    "Nivelamento"
+  ],
+  "sequence": 1,
+  "image": "/assets/images/themes/cards/typescript-fundamentals.png",
+  "created": "2025-09-23",
+  "updated": "2025-09-23",
+  "id": "cb096b44-4539-4dfa-89e8-011b5cc91479",
+  "description": "**TypeScript** é uma linguagem de programação de código aberto desenvolvida pela Microsoft, que se baseia em JavaScript e adiciona tipagem estática opcional. Ao contrário de JavaScript, que é fracamente tipado, TypeScript permite as pessoas desenvolvedoras definir tipos para variáveis, parâmetros de função e retornos de função, o que ajuda a detectar erros em tempo de compilação, em vez de tempo de execução. Isso proporciona um desenvolvimento mais seguro e confiável. Uma das grandes vantagens do TypeScript é a compatibilidade com JavaScript existente, permitindo que os desenvolvedores gradualmente migrem seus projetos sem reescrever tudo do zero. Além disso, TypeScript suporta recursos modernos de JavaScript, como classes, módulos e funções assíncronas, e adiciona funcionalidades adicionais, como interfaces e enums. O sistema de tipos avançado de TypeScript facilita a autocompletar de código e fornece melhor documentação durante o desenvolvimento, aumentando a produtividade das desenvolvedoras. Ferramentas como o Visual Studio Code têm suporte robusto para TypeScript, tornando a experiência de desenvolvimento ainda mais eficiente. TypeScript é especialmente útil para grandes projetos de código base, onde a manutenção e escalabilidade são cruciais. Ele ajuda a evitar bugs sutis que podem surgir de tipagem dinâmica e torna o código mais fácil de entender e refatorar. Adotar TypeScript em projetos novos ou existentes pode levar a um ciclo de desenvolvimento mais ágil e menos propenso a erros, tornando-se uma escolha popular entre desenvolvedoras e empresas ao redor do mundo.",
+  "folder": "04-typescript-fundamentals",
+  "type": "theme"
+}

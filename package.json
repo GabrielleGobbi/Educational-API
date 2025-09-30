@@ -1,0 +1,34 @@
+{
+  "name": "educational-api-prototype",
+  "version": "1.0.0",
+  "description": "API REST serverless para conteúdo educacional usando GitHub Pages e Actions",
+  "main": "index.js",
+  "scripts": {
+    "generate-ids": "node scripts/generate-ids.js",
+    "generate-api": "node scripts/generate-api.js",
+    "build": "npm run generate-ids && npm run generate-api",
+    "dev": "npm run build && echo 'API gerada em ./api/'",
+    "validate": "node scripts/validate-content.js"
+  },
+  "keywords": [
+    "education",
+    "api",
+    "serverless",
+    "github-pages",
+    "markdown",
+    "typescript"
+  ],
+  "author": "Educational API Team",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/educational-api-prototype.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

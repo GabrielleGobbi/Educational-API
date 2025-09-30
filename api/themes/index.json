@@ -1,0 +1,24 @@
+[
+  {
+    "id": "d1490c1d-f859-46a9-9b9f-b15b2cd2304d",
+    "title": "Iniciando a Jornada",
+    "slug": "beginning-the-journey",
+    "cardDescription": "Acesse conteúdos para aprimorar seus métodos de estudo e dar seus primeiros passos na programação.",
+    "category": [
+      "Autoestudo"
+    ],
+    "sequence": 1,
+    "image": "/assets/images/themes/cards/beginning-the-journey.png"
+  },
+  {
+    "id": "cb096b44-4539-4dfa-89e8-011b5cc91479",
+    "title": "TypeScript: Fundamentos",
+    "slug": "typescript-fundamentals",
+    "cardDescription": "TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript adicionando tipos estáticos opcionais.",
+    "category": [
+      "Nivelamento"
+    ],
+    "sequence": 1,
+    "image": "/assets/images/themes/cards/typescript-fundamentals.png"
+  }
+]

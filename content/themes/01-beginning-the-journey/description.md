@@ -1,0 +1,1 @@
+Aqui você encontra conteúdos de vídeos como uma maneira eficaz de melhorar e construir uma jornada de aprendizado em programação ágil. Para maximizar seu aprendizado, combine vídeos com a prática constante e participação em comunidades de desenvolvimento. Essa combinação de recursos ajudará a consolidar seu conhecimento e aplicá-lo de maneira eficaz em projetos reais.

@@ -1,0 +1,12 @@
+---
+title: "Criando Tipos Básicos"
+slug: tipos-basicos
+cardDescription: "Exercício prático para criar e utilizar tipos básicos em TypeScript."
+theme: typescript-fundamentals
+topic: fundamentos
+difficulty: beginner
+estimated_time: "15 minutos"
+points: 10
+tags: "["tipos", "variáveis", "básico"]"
+id: 6c533d48-3a12-4843-ba7c-fe672ad78af4
+---
